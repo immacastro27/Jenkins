@@ -1,3 +1,4 @@
+#---- Basis Structure for Jenkins
 :'
 stages {
     stage ("Clone") {
@@ -31,5 +32,6 @@ stages {
         }
     }
 }
-
 '
+
+
